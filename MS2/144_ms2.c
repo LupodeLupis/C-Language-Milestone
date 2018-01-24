@@ -1,12 +1,4 @@
-// -------------------------------------------
-//  Name:ALBERTO LAURENZI
-//  ID:150954162
-//  Email:alaurenzi@myseneca.ca
-//  Description: Milestone #2
-// -------------------------------------------
-
 #include <stdio.h>
-
 #define LINEAR 1
 #define FORM 0
 
