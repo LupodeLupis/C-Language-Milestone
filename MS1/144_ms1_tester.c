@@ -1,13 +1,3 @@
-// Final Project Milestone 1
-// Student defined values tester
-// Version 1.0
-// Date	2017/03/07
-// Author	Fardad Soleimanloo
-// Description
-// This program test the student implementation of the UI tools
-// and Application User Interface for submission.
-//
-/////////////////////////////////////////////////////////////////
 #include <stdio.h>
 // tools
 void welcome(void);
