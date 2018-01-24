@@ -1,10 +1,3 @@
-// -------------------------------------------
-//  Name:ALBERTO LAURENZI
-//  ID:150954162
-//  Email:alaurenzi@myseneca.ca
-//  Description: Milestone #4
-// -------------------------------------------
-
 #include <stdio.h>
 #include <string.h>
 
