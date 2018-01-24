@@ -1,0 +1,11 @@
+﻿  144_ms1_tester.c
+c:\ipc-144\ipc144_milestone\ms1\144_ms1_tester.c(30): warning C4101: 'dVal': unreferenced local variable
+c:\ipc-144\ipc144_milestone\ms1\144_ms1_tester.c(29): warning C4101: 'iVal': unreferenced local variable
+  144_ms1.c
+c:\ipc-144\ipc144_milestone\ms1\144_ms1.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\ipc-144\ipc144_milestone\ms1\144_ms1.c(104): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+  MS1.vcxproj -> C:\IPC-144\ipc144_Milestone\MS1\Debug\MS1.exe
+  MS1.vcxproj -> C:\IPC-144\ipc144_Milestone\MS1\Debug\MS1.pdb (Full PDB)
